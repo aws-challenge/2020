@@ -1,13 +1,13 @@
 ## The AWS Developer Challenge for Data Engineers
 ### Instructions
 
-> In general feel free to expand / change the challenge in any way you like, just explain your solution and decision making, any concerns around it or limitations etc.
+In general feel free to expand/change the challenge in any way you like, just explain your solution and decision making, any concerns around it or limitations etc.
 
-**Some information/content is left out intentionally to test your working experience, please fill in the missing parts.**
+Some information/content is left out intentionally to validate your working experience, please fill in the missing parts.**
 
 > Fork this repo with your solution. Ideally, we'd like to see your progression through commits, and don't forget to update the README.md to explain your thought process.
 
-**Please do not refernce any websites or published atricles. We are looking for original content!**
+**Please do not reference any websites or published articles. We are looking for original content!**
 
 Please let us know how long the challenge took you. We're not looking for how fast or detailed you are. It's just to give us a clearer idea of what you've produced in the time you decided to take. Feel free to go as big or as small as you want.
 
