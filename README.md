@@ -1,24 +1,24 @@
 # 2020/21
-======
 
 ## The AWS Solutions Architect / Developer Challenge
 
 This company is ingesting data into a 'data lake' running AWS. Below find a picture of the AWS components used for this company's architecture. 
-(/media/awscp.png)
+
+![AWS-COMPONENTS](/media/awscp.png)
 
 ### Part 1
 Use the components used by the company and create an architecture with your tool of choice (powerpoint / draw.io / etc) showing how the data ingest from an on-premise site into AWS. Upload the diagram/picture into the Git Repo and indicate where it's saved. Use the given components as far as possible to illustrate your solution.
 
 #### Hints
-* Focus on low cost & high performance.
+* Focus on *low cost & high* performance.
 * All the data are stored in S3 buckets.
 * Athena is used to query the data.
-* Show how you will use Step Functions to orchestrate the complete process.
+* Show how you will use Step Functions to orchestrate the *ingest* process.
 * AWS DynamoDB / CloudWatch must be used.
 * Glue Jobs should be used to do the ingest.
 * CloudFormation output is a CodeBuild Project
 * Git is used to save the terraforms and python / pyspark code.
-* You do not have to design/depict the CI/CD, Assume that it's already in place.
+* You do not have to design/depict the CI/CD, assume that it's already in place.
 * Look at the available .tf files to get an understanding of the architecture.
 ___
 
@@ -31,9 +31,9 @@ ___
 
 ### Part 3
 Within the Git Repo Structure
-* Modify the CloudFormation Template (./CFN/seed.yaml) in order to create a CodeBuild Project.
-* Update the glue_jobs.tf, main.tf and output.tf 
-* Provide the python script that will be used within the glue job, using either python shell or spark.
+* Modify the CloudFormation Template [CFN/seed.yaml] in order to create a CodeBuild Project.
+* Update the _glue_jobs.tf_, _main.tf_ and _output.tf_. 
+* Provide the python script that will be used within the glue job, using either python shell or spark. Think here about using DynamoDB to keep certain job settings and table structures for s3.
 ___
 
 ## Instructions
