@@ -3,7 +3,9 @@
 
 > In general feel free to expand / change the challenge in any way you like, just explain your solution and decision making, any concerns around it or limitations etc.
 
-Fork this repo with your solution. Ideally, we'd like to see your progression through commits, and don't forget to update the README.md to explain your thought process.
+**Some information/content is left out intentionally to test your working experience, please fill in the missing parts.**
+
+> Fork this repo with your solution. Ideally, we'd like to see your progression through commits, and don't forget to update the README.md to explain your thought process.
 
 **Please do not refernce any websites or published atricles. We are looking for original content!**
 
