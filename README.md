@@ -3,7 +3,7 @@
 
 In general feel free to expand/change the challenge in any way you like, just explain your solution and decision making, any concerns around it or limitations etc.
 
-Some information/content is left out intentionally to validate your working experience, please fill in the missing parts.**
+Some information/content is left out intentionally to validate your working experience, please fill in the missing parts.
 
 > Fork this repo with your solution. Ideally, we'd like to see your progression through commits, and don't forget to update the README.md to explain your thought process.
 
@@ -18,7 +18,9 @@ This company is ingesting data into a 'data lake' running AWS. Below find a pict
 ![AWS-COMPONENTS](/media/awscp.png)
 
 #### Section A
-Use the components shown above and create an architecture with your tool of choice (powerpoint / draw.io / etc) showing how to ingest data from an on-premise site into AWS. Upload the diagram/picture into the Git repository and indicate where it's saved. Use the given components as far as possible to illustrate your solution.
+Use the components shown above and create an architecture with your tool of choice (powerpoint / draw.io / etc) showing how to ingest data from an on-premise site into AWS. 
+
+Upload the diagram/picture into the Git repository and indicate where it's saved. Use the given components as far as possible to illustrate your solution.
 
 ##### Hints
 * Focus on *low cost & high* performance.
@@ -41,10 +43,10 @@ Within this Readme.md describe the architecture above, giving detail when and ho
 ___
 
 #### Section C
-Within the Git Repo Structure
+Within the Git Repository Structure:
 * Modify the CloudFormation Template [CFN/seed.yaml] in order to create a CodeBuild Project.
-* Update the _glue_jobs.tf_, _main.tf_ and _output.tf_. 
-* Provide the python script that will be used within the glue job, using either python shell or spark. Think here about using DynamoDB to keep certain job settings and table structures for S3.
+* Update the _glue_jobs.tf_, _main.tf_ and _output.tf_ terraform files. 
+* Provide the python script that will be used within the glue job, using either python shell or spark, think here about using DynamoDB to keep certain job settings and table structures for S3.
 ___
 
 ### Submit it
