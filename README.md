@@ -1,4 +1,4 @@
-# The AWS Solutions Architect / Developer Challenge for Data Engineers
+## The AWS Developer Challenge for Data Engineers
 ### Instructions
 
 > In general feel free to expand / change the challenge in any way you like, just explain your solution and decision making, any concerns around it or limitations etc.
