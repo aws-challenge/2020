@@ -51,7 +51,7 @@ ___
 
 ### Submit it
 
-Send us your solution as a link to a public Github repository. In case you prefer to use a private repo just email us when you are done. 
+Please use a private repo just email us when you are done. 
 
 ### My Solution 
 Use this area to describe your solution as requested in *_Section B_*. 
