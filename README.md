@@ -52,6 +52,8 @@ Within this Readme.md describe the architecture above, giving detail when and ho
 ___
 
 #### Section C
+**Try your best do not keep the section open, we want to see how you apply yourself**
+
 Within the Git Repository Structure:
 * Modify the CloudFormation Template [CFN/seed.yaml] in order to create a CodeBuild Project.
 * Update the _glue_jobs.tf_, _main.tf_ and _output.tf_ terraform files. 
