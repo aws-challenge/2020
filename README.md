@@ -18,6 +18,7 @@ This company is ingesting data into a 'data lake' running AWS. Below find a pict
 ![AWS-COMPONENTS](/media/awscp.png)
 
 #### Section A
+### Design an Architecture Diagram - We want to see a picture.
 Use the components shown above and create an architecture with your tool of choice (powerpoint / draw.io / etc) showing how to ingest data from an on-premise site into AWS. 
 
 Upload the diagram/picture into the Git repository and indicate where it's saved. Use the given components as far as possible to illustrate your solution.
@@ -36,7 +37,15 @@ Upload the diagram/picture into the Git repository and indicate where it's saved
 ___
 
 #### Section B
+### Describe the Section A - Architecture Diagram 
+
 Within this Readme.md describe the architecture above, giving detail when and how you would use the selected components.
+
+**Please do not reference any websites or published articles.** 
+**We are looking for original content!** 
+**We do not want to see definitions of the AWS components.**
+
+
 ##### Hints
 * Consider aspects like security (iam / firewalls / vpc / security groups / roles)
 * To each component used, give a detailed description on how it fits into the solution, please do not reference existing AWS documentation, use your own words! Feel free to document your thought process. We are interested to find out how you think.
@@ -53,7 +62,7 @@ ___
 
 Please use a private repo just email us when you are done. 
 
-### My Solution 
+### Your Solution Starts HERE!!!
 Use this area to describe your solution as requested in *_Section B_*. 
 
 
